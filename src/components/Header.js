@@ -8,7 +8,7 @@ export default function Header(){
 
     return <header className="flex justify-between px-2 py-2 header-bg">
 
-        <a className="font-bold" href="#">Stephen Raj S</a>
+        <a className="font-bold" href="#">GooseWebApps</a>
         <nav className="hidden md:block">
         <ul className="flex text-white">
          <li><a href="#">Home</a></li>
