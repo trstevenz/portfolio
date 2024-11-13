@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header ul li {
+  @apply px-2;
+}
+
+.header-bg{
+
+    background:rgb(85 81 227);
+}
+.menu-md-header{
+    @apply fixed top-10 left-0 bg-gray-500 w-full h-1/4;
+}
+
+.menu-md-header li{
+   @apply w-full h-full text-center border-b-2;
+
+}
